@@ -1,3 +1,7 @@
+"""
+take input length and width as float type then calculate the area and 
+perimeter of the rectangle then print it out.
+"""
 length = float(input("Enter the length of the rectangle: "))
 width = float(input("Enter the width of the rectangle: "))
 

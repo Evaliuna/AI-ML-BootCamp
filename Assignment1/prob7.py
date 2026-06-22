@@ -1,4 +1,6 @@
-
+"""
+I applied all the augmented assigment operation is given and printed in order.
+"""
 x = 100
 
 x -= 25

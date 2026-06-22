@@ -1,3 +1,7 @@
+"""
+I took variables with vlaues and use logical operators(and,
+or, not) to check if each condition true or false.
+"""
 num1 = 25
 check1 = (num1 >= 10) and (num1 <= 50)
 print(f"Is {num1} between 10 and 50? {check1}")

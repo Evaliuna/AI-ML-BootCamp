@@ -1,3 +1,7 @@
+"""
+i have created three variables for inputs and three for formatted lines 
+with the variables and printed out them.
+"""
 product = 'Laptop'
 price = 75000.5
 discount = 10

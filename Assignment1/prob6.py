@@ -1,3 +1,7 @@
+"""
+I have taken two integer value in a and b. 
+And perform the operations that qus instructed.
+"""
 a = 15
 b = 4
 
